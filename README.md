@@ -8,7 +8,7 @@ This project is a simple example of how to fine-tune a Sentence Transformer mode
 ## Setup and Installation
 To set up and run the example, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/adiekaye/fine-tuning-sentence-transformers.git`
+1. Clone this repository: `git clone https://github.com/apeng-singlestore/fine-tuning-sentence-transformers.git`
 2. Navigate to the project directory: cd sentence-transformer-tuning
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
